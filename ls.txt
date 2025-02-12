@@ -1,0 +1,9 @@
+total 28K
+drwxrwxr-x  3 starlit starlit 4.0K Feb 12 10:39 ./
+drwxr-x--- 16 starlit starlit 4.0K Feb 12 10:30 ../
+-rw-rw-r--  1 starlit starlit  584 Feb 12 10:37 config.txt
+-rw-rw-r--  1 starlit starlit  167 Feb 12 10:31 first.txt
+drwxrwxr-x  8 starlit starlit 4.0K Feb 12 10:39 .git/
+-rw-rw-r--  1 starlit starlit    0 Feb 12 10:39 ls.txt
+-rw-rw-r--  1 starlit starlit   21 Feb 12 10:30 README.md
+-rw-rw-r--  1 starlit starlit  199 Feb 12 10:31 status.txt
